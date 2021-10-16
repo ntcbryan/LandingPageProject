@@ -3,7 +3,7 @@
     --secondary-color: crimson;
     --white--color: #ffffff;
     --ligth--gray-color: #eeeeee;
-    --gap: 3rem; /* espaçamento padrão de cada section*/
+    --gap: 4rem; /* espaçamento padrão de cada section*/
 }
 
 .main-bg{
